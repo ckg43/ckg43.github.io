@@ -5,6 +5,10 @@ html, body {
 
 body {
   background-image: url("../pics/CornellUniversity.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
 embed {
   width: 70%;
