@@ -1,3 +1,8 @@
+html, body {
+  height: 100%;
+  margin: 0px;
+}
+
 embed {
   width: 70%;
   height: 70%;
