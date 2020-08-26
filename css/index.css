@@ -24,6 +24,18 @@ embed.phone {
   height: 1250px;
 }
 
+img {
+  
+}
+
+img.reg {
+  
+}
+
+img.phone {
+  height: 100%;
+}
+
 h1 {
   text-align: center;
   font-family: Trebuchet MS, sans-serif;
