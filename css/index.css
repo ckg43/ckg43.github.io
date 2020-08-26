@@ -3,6 +3,9 @@ html, body {
   margin: 0px;
 }
 
+body {
+  background-image: url("../pics/CornellUniversity.jpg");
+
 embed {
   width: 70%;
   height: 300px;
