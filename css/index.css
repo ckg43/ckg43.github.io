@@ -3,13 +3,11 @@ html, body {
   margin: 0px;
 }
 
-.bg {
+body {
   background-image: url("../pics/CornellUniversity.jpg");
   background-position: center;
-  position: relative;
   background-repeat: no-repeat;
   background-size: cover;
-  opacity: 0.5;
 }
 
 embed {
