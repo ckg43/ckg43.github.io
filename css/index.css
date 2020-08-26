@@ -11,9 +11,12 @@ body {
 }
 
 embed {
+  margin: 0px;
+}
+
+embed.reg {
   width: 70%;
   height: 80%;
-  margin: 0px;
 }
 
 embed.phone {
@@ -26,7 +29,7 @@ h1 {
   font-family: Trebuchet MS, sans-serif;
 }
 
-h1 {
+h1.phone {
   font-size: 50px
 }
 
