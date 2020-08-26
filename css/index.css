@@ -16,9 +16,18 @@ embed {
   margin: 0px;
 }
 
+embed.phone {
+  width: 120%;
+  height: 120%;
+}
+
 h1 {
   text-align: center;
   font-family: Trebuchet MS, sans-serif;
+}
+
+h1 {
+  font-size: 50px
 }
 
 div {
