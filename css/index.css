@@ -29,11 +29,8 @@ img {
 }
 
 img.reg {
-  
-}
-
-img.phone {
-  height: 100%;
+  max-width: 100%;
+  height: auto;
 }
 
 h1 {
