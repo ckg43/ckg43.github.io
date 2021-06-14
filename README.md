@@ -1,6 +1,6 @@
 # Schedule
 
-This is my schedule for courses at Cornell University.
+This is my schedule for courses at Cornell University, inspired by the CodyHouse schedule template.
 
 ## Dependencies
 
