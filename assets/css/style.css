@@ -3539,10 +3539,10 @@ mark {
 	--cd-color-event-5-h: 348;
 	--cd-color-event-5-s: 30%;
 	--cd-color-event-5-l: 50%;
-  --cd-color-event-6: hsl(56, 79%, 78%);
-	--cd-color-event-6-h: 56;
-	--cd-color-event-6-s: 79%;
-	--cd-color-event-6-l: 78%;
+  --cd-color-event-6: hsl(151, 39%, 50%);
+	--cd-color-event-6-h: 151;
+	--cd-color-event-6-s: 39%;
+	--cd-color-event-6-l: 50%;
   --cd-color-event-7: hsl(243, 17%, 50%);
 	--cd-color-event-7-h: 243;
 	--cd-color-event-7-s: 17%;
@@ -3890,7 +3890,7 @@ a {
 
 .cd-schedule__event [data-event="event-6"],
 .cd-schedule-modal[data-event="event-6"] .cd-schedule-modal__header-bg {
-	background: hsl(56, 79%, 78%);
+	background: hsl(151, 39%, 50%);
 	background: var(--cd-color-event-6)
 }
 
