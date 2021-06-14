@@ -3882,6 +3882,23 @@ a {
 	background: var(--cd-color-event-4)
 }
 
+.cd-schedule__event [data-event="event-5"],
+.cd-schedule-modal[data-event="event-5"] .cd-schedule-modal__header-bg {
+	background: hsl(348, 30%, 50%);
+	background: var(--cd-color-event-5)
+}
+
+.cd-schedule__event [data-event="event-6"],
+.cd-schedule-modal[data-event="event-6"] .cd-schedule-modal__header-bg {
+	background: hsl(51, 31%, 50%);
+	background: var(--cd-color-event-6)
+}
+
+.cd-schedule__event [data-event="event-7"],
+.cd-schedule-modal[data-event="event-7"] .cd-schedule-modal__header-bg {
+	background: hsl(243, 17%, 50%);
+	background: var(--cd-color-event-7)
+}
 .cd-schedule-modal {
 	position: fixed;
 	z-index: 3;
