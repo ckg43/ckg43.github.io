@@ -16,6 +16,7 @@
   @include defineColorHSL(--cd-color-event-5, 348, 30%, 50%);
   @include defineColorHSL(--cd-color-event-6, 151, 39%, 50%);
   @include defineColorHSL(--cd-color-event-7, 243, 17%, 50%);
+  @include defineColorHSL(--cd-color-event-8, 298, 31%, 68%);
   @include defineColorHSL(--cd-color-text, 0, 0%, 13%);         // Black
   @include defineColorHSL(--cd-color-border, 0, 0%, 92%);       // Grey
 
@@ -333,6 +334,12 @@ a {
 .cd-schedule-modal[data-event="event-7"] .cd-schedule-modal__header-bg {
 	background: var(--cd-color-event-7);
 }
+
+.cd-schedule__event [data-event="event-8"],
+.cd-schedule-modal[data-event="event-8"] .cd-schedule-modal__header-bg {
+	background: var(--cd-color-event-8);
+}
+
 .cd-schedule-modal {
 	position: fixed;
 	z-index: 3;
